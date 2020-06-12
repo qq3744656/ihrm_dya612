@@ -1,0 +1,5 @@
+2020-06-12 17:06:19,765 INFO [root] [test02_department.py(test01_get_department:15)] - test 组织架构列表
+2020-06-12 17:06:30,382 INFO [root] [test02_department.py(test01_get_department:15)] - test 组织架构列表
+2020-06-12 17:07:09,354 INFO [root] [test01_login.py(test_login:12)] - test 登陆成功
+2020-06-12 17:07:09,405 INFO [root] [test01_login.py(test_login:12)] - test 登陆失败
+2020-06-12 17:07:09,484 INFO [root] [test02_department.py(test01_get_department:15)] - test 组织架构列表

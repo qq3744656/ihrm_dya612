@@ -1,0 +1,2 @@
+2020-06-12 15:43:09,492 INFO [root] [test01_login.py(test_login:12)] - test 登陆成功
+2020-06-12 15:43:09,563 INFO [root] [test01_login.py(test_login:12)] - test 登陆失败
